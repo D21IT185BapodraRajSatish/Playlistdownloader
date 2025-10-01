@@ -1,3 +1,2 @@
 streamlit
-yt-dlp==2025.9.25
 ffmpeg-python
